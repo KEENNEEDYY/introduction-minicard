@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg class="document-preview" viewBox="0 0 595.28 841.89" style="direction: ltr;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect width="601.164" height="840.626" fill="white" style=""/>
+  <path d="M 0,0 L 30,0 C 30,0,30,0,30,0 L 30,841.89 C 30,841.89,30,841.89,30,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,0 C 0,0,0,0,0,0 Z" fill="#043b0c"/>
+  <path d="M 30,0 L 208.58399999999997,0 C 208.58399999999997,0,208.58399999999997,0,208.58399999999997,0 L 208.58399999999997,841.89 C 208.58399999999997,841.89,208.58399999999997,841.89,208.58399999999997,841.89 L 30,841.89 C 30,841.89,30,841.89,30,841.89 L 30,0 C 30,0,30,0,30,0 Z" fill="#f2f2f2"/>
+  <text x="40" y="41.1" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">Dados </text>
+  <text x="78.021484375" y="41.1" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">pessoais</text>
+  <path d="M 40,47.2 L 198.58399999999997,47.2 C 198.58399999999997,47.2,198.58399999999997,47.2,198.58399999999997,47.2 L 198.58399999999997,47.7 C 198.58399999999997,47.7,198.58399999999997,47.7,198.58399999999997,47.7 L 40,47.7 C 40,47.7,40,47.7,40,47.7 L 40,47.2 C 40,47.2,40,47.2,40,47.2 Z" fill="#d8d8d8"/>
+  <image x="40.9375" y="57.7" width="13.125" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA0NDggNTEyIiB3aWR0aD0iNDQ4IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTIyNCAyNTZjNzAuNyAwIDEyOC01Ny4zIDEyOC0xMjhTMjk0LjcgMCAyMjQgMCA5NiA1Ny4zIDk2IDEyOHM1Ny4zIDEyOCAxMjggMTI4em04OS42IDMyaC0xNi43Yy0yMi4yIDEwLjItNDYuOSAxNi03Mi45IDE2cy01MC42LTUuOC03Mi45LTE2aC0xNi43QzYwLjIgMjg4IDAgMzQ4LjIgMCA0MjIuNFY0NjRjMCAyNi41IDIxLjUgNDggNDggNDhoMzUyYzI2LjUgMCA0OC0yMS41IDQ4LTQ4di00MS42YzAtNzQuMi02MC4yLTEzNC40LTEzNC40LTEzNC40eiI+PC9wYXRoPjwvc3ZnPg=="/>
+  <text x="64" y="65.10000000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Kennedy </text>
+  <text x="97.8046875" y="65.10000000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Costa</text>
+  <image x="40" y="87.7" width="15" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTUwMi4zIDE5MC44YzMuOS0zLjEgOS43LS4yIDkuNyA0LjdWNDAwYzAgMjYuNS0yMS41IDQ4LTQ4IDQ4SDQ4Yy0yNi41IDAtNDgtMjEuNS00OC00OFYxOTUuNmMwLTUgNS43LTcuOCA5LjctNC43IDIyLjQgMTcuNCA1Mi4xIDM5LjUgMTU0LjEgMTEzLjYgMjEuMSAxNS40IDU2LjcgNDcuOCA5Mi4yIDQ3LjYgMzUuNy4zIDcyLTMyLjggOTIuMy00Ny42IDEwMi03NC4xIDEzMS42LTk2LjMgMTU0LTExMy43ek0yNTYgMzIwYzIzLjIuNCA1Ni42LTI5LjIgNzMuNC00MS40IDEzMi43LTk2LjMgMTQyLjgtMTA0LjcgMTczLjQtMTI4LjcgNS44LTQuNSA5LjItMTEuNSA5LjItMTguOXYtMTljMC0yNi41LTIxLjUtNDgtNDgtNDhINDhDMjEuNSA2NCAwIDg1LjUgMCAxMTJ2MTljMCA3LjQgMy40IDE0LjMgOS4yIDE4LjkgMzAuNiAyMy45IDQwLjcgMzIuNCAxNzMuNCAxMjguNyAxNi44IDEyLjIgNTAuMiA0MS44IDczLjQgNDEuNHoiPjwvcGF0aD48L3N2Zz4="/>
+  <text x="64" y="95.10000000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">kennedy.costa.valenet@gmail.com</text>
+  <image x="40" y="117.7" width="15" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQ5My40IDI0LjZsLTEwNC0yNGMtMTEuMy0yLjYtMjIuOSAzLjMtMjcuNSAxMy45bC00OCAxMTJjLTQuMiA5LjgtMS40IDIxLjMgNi45IDI4bDYwLjYgNDkuNmMtMzYgNzYuNy05OC45IDE0MC41LTE3Ny4yIDE3Ny4ybC00OS42LTYwLjZjLTYuOC04LjMtMTguMi0xMS4xLTI4LTYuOWwtMTEyIDQ4QzMuOSAzNjYuNS0yIDM3OC4xLjYgMzg5LjRsMjQgMTA0QzI3LjEgNTA0LjIgMzYuNyA1MTIgNDggNTEyYzI1Ni4xIDAgNDY0LTIwNy41IDQ2NC00NjQgMC0xMS4yLTcuNy0yMC45LTE4LjYtMjMuNHoiPjwvcGF0aD48L3N2Zz4="/>
+  <text x="64" y="125.10000000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">31989177944</text>
+  <image x="39.0625" y="147.7" width="16.875" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA1NzYgNTEyIiB3aWR0aD0iNTc2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTI4MC4zNyAxNDguMjZMOTYgMzAwLjExVjQ2NGExNiAxNiAwIDAgMCAxNiAxNmwxMTIuMDYtLjI5YTE2IDE2IDAgMCAwIDE1LjkyLTE2VjM2OGExNiAxNiAwIDAgMSAxNi0xNmg2NGExNiAxNiAwIDAgMSAxNiAxNnY5NS42NGExNiAxNiAwIDAgMCAxNiAxNi4wNUw0NjQgNDgwYTE2IDE2IDAgMCAwIDE2LTE2VjMwMEwyOTUuNjcgMTQ4LjI2YTEyLjE5IDEyLjE5IDAgMCAwLTE1LjMgMHpNNTcxLjYgMjUxLjQ3TDQ4OCAxODIuNTZWNDQuMDVhMTIgMTIgMCAwIDAtMTItMTJoLTU2YTEyIDEyIDAgMCAwLTEyIDEydjcyLjYxTDMxOC40NyA0M2E0OCA0OCAwIDAgMC02MSAwTDQuMzQgMjUxLjQ3YTEyIDEyIDAgMCAwLTEuNiAxNi45bDI1LjUgMzFBMTIgMTIgMCAwIDAgNDUuMTUgMzAxbDIzNS4yMi0xOTMuNzRhMTIuMTkgMTIuMTkgMCAwIDEgMTUuMyAwTDUzMC45IDMwMWExMiAxMiAwIDAgMCAxNi45LTEuNmwyNS41LTMxYTEyIDEyIDAgMCAwLTEuNy0xNi45M3oiPjwvcGF0aD48L3N2Zz4="/>
+  <text x="64" y="155.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">RUA </text>
+  <text x="83.11328125" y="155.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">DOS </text>
+  <text x="102.671875" y="155.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">INDUSTRIARIOS, </text>
+  <text x="169.7890625" y="155.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">234</text>
+  <text x="64" y="163.9" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">GABIROBA</text>
+  <text x="64" y="172.70000000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">35900424 </text>
+  <text x="101.81640625" y="172.70000000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Itabira</text>
+  <image x="40.9375" y="189.10000000000002" width="13.125" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA0NDggNTEyIiB3aWR0aD0iNDQ4IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTAgNDY0YzAgMjYuNSAyMS41IDQ4IDQ4IDQ4aDM1MmMyNi41IDAgNDgtMjEuNSA0OC00OFYxOTJIMHYyNzJ6bTMyMC0xOTZjMC02LjYgNS40LTEyIDEyLTEyaDQwYzYuNiAwIDEyIDUuNCAxMiAxMnY0MGMwIDYuNi01LjQgMTItMTIgMTJoLTQwYy02LjYgMC0xMi01LjQtMTItMTJ2LTQwem0wIDEyOGMwLTYuNiA1LjQtMTIgMTItMTJoNDBjNi42IDAgMTIgNS40IDEyIDEydjQwYzAgNi42LTUuNCAxMi0xMiAxMmgtNDBjLTYuNiAwLTEyLTUuNC0xMi0xMnYtNDB6TTE5MiAyNjhjMC02LjYgNS40LTEyIDEyLTEyaDQwYzYuNiAwIDEyIDUuNCAxMiAxMnY0MGMwIDYuNi01LjQgMTItMTIgMTJoLTQwYy02LjYgMC0xMi01LjQtMTItMTJ2LTQwem0wIDEyOGMwLTYuNiA1LjQtMTIgMTItMTJoNDBjNi42IDAgMTIgNS40IDEyIDEydjQwYzAgNi42LTUuNCAxMi0xMiAxMmgtNDBjLTYuNiAwLTEyLTUuNC0xMi0xMnYtNDB6TTY0IDI2OGMwLTYuNiA1LjQtMTIgMTItMTJoNDBjNi42IDAgMTIgNS40IDEyIDEydjQwYzAgNi42LTUuNCAxMi0xMiAxMkg3NmMtNi42IDAtMTItNS40LTEyLTEydi00MHptMCAxMjhjMC02LjYgNS40LTEyIDEyLTEyaDQwYzYuNiAwIDEyIDUuNCAxMiAxMnY0MGMwIDYuNi01LjQgMTItMTIgMTJINzZjLTYuNiAwLTEyLTUuNC0xMi0xMnYtNDB6TTQwMCA2NGgtNDhWMTZjMC04LjgtNy4yLTE2LTE2LTE2aC0zMmMtOC44IDAtMTYgNy4yLTE2IDE2djQ4SDE2MFYxNmMwLTguOC03LjItMTYtMTYtMTZoLTMyYy04LjggMC0xNiA3LjItMTYgMTZ2NDhINDhDMjEuNSA2NCAwIDg1LjUgMCAxMTJ2NDhoNDQ4di00OGMwLTI2LjUtMjEuNS00OC00OC00OHoiPjwvcGF0aD48L3N2Zz4="/>
+  <text x="64" y="196.50000000000003" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">23 </text>
+  <text x="75.12109375" y="196.50000000000003" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="86.2421875" y="196.50000000000003" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">junho </text>
+  <text x="108.0390625" y="196.50000000000003" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="119.16015625" y="196.50000000000003" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">1992</text>
+  <image x="41.875" y="219.10000000000002" width="11.25" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCAzODQgNTEyIiB3aWR0aD0iMzg0IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTE3Mi4yNjggNTAxLjY3QzI2Ljk3IDI5MS4wMzEgMCAyNjkuNDEzIDAgMTkyIDAgODUuOTYxIDg1Ljk2MSAwIDE5MiAwczE5MiA4NS45NjEgMTkyIDE5MmMwIDc3LjQxMy0yNi45NyA5OS4wMzEtMTcyLjI2OCAzMDkuNjctOS41MzUgMTMuNzc0LTI5LjkzIDEzLjc3My0zOS40NjQgMHpNMTkyIDI3MmM0NC4xODMgMCA4MC0zNS44MTcgODAtODBzLTM1LjgxNy04MC04MC04MC04MCAzNS44MTctODAgODAgMzUuODE3IDgwIDgwIDgweiI+PC9wYXRoPjwvc3ZnPg=="/>
+  <text x="64" y="226.50000000000003" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Brasileiro</text>
+  <image x="40" y="249.10000000000002" width="15" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQ5OS45OSAxNzZoLTU5Ljg3bC0xNi42NC00MS42QzQwNi4zOCA5MS42MyAzNjUuNTcgNjQgMzE5LjUgNjRoLTEyN2MtNDYuMDYgMC04Ni44OCAyNy42My0xMDMuOTkgNzAuNEw3MS44NyAxNzZIMTIuMDFDNC4yIDE3Ni0xLjUzIDE4My4zNC4zNyAxOTAuOTFsNiAyNEM3LjcgMjIwLjI1IDEyLjUgMjI0IDE4LjAxIDIyNGgyMC4wN0MyNC42NSAyMzUuNzMgMTYgMjUyLjc4IDE2IDI3MnY0OGMwIDE2LjEyIDYuMTYgMzAuNjcgMTYgNDEuOTNWNDE2YzAgMTcuNjcgMTQuMzMgMzIgMzIgMzJoMzJjMTcuNjcgMCAzMi0xNC4zMyAzMi0zMnYtMzJoMjU2djMyYzAgMTcuNjcgMTQuMzMgMzIgMzIgMzJoMzJjMTcuNjcgMCAzMi0xNC4zMyAzMi0zMnYtNTQuMDdjOS44NC0xMS4yNSAxNi0yNS44IDE2LTQxLjkzdi00OGMwLTE5LjIyLTguNjUtMzYuMjctMjIuMDctNDhINDk0YzUuNTEgMCAxMC4zMS0zLjc1IDExLjY0LTkuMDlsNi0yNGMxLjg5LTcuNTctMy44NC0xNC45MS0xMS42NS0xNC45MXptLTM1Mi4wNi0xNy44M2M3LjI5LTE4LjIyIDI0Ljk0LTMwLjE3IDQ0LjU3LTMwLjE3aDEyN2MxOS42MyAwIDM3LjI4IDExLjk1IDQ0LjU3IDMwLjE3TDM4NCAyMDhIMTI4bDE5LjkzLTQ5Ljgzek05NiAzMTkuOGMtMTkuMiAwLTMyLTEyLjc2LTMyLTMxLjlTNzYuOCAyNTYgOTYgMjU2czQ4IDI4LjcxIDQ4IDQ3Ljg1LTI4LjggMTUuOTUtNDggMTUuOTV6bTMyMCAwYy0xOS4yIDAtNDggMy4xOS00OC0xNS45NVMzOTYuOCAyNTYgNDE2IDI1NnMzMiAxMi43NiAzMiAzMS45LTEyLjggMzEuOS0zMiAzMS45eiI+PC9wYXRoPjwvc3ZnPg=="/>
+  <text x="64" y="256.5" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">A/D</text>
+  <image x="39.0625" y="279.1" width="16.875" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA1NzYgNTEyIiB3aWR0aD0iNTc2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTU2NCAwaC03OWMtMTAuNyAwLTE2IDEyLjktOC41IDIwLjVsMTYuOSAxNi45LTQ4LjcgNDguN0M0MjIuNSA3Mi4xIDM5Ni4yIDY0IDM2OCA2NGMtMzMuNyAwLTY0LjYgMTEuNi04OS4yIDMwLjkgMTQgMTYuNyAyNSAzNiAzMi4xIDU3LjEgMTQuNS0xNC44IDM0LjctMjQgNTcuMS0yNCA0NC4xIDAgODAgMzUuOSA4MCA4MHMtMzUuOSA4MC04MCA4MGMtMjIuMyAwLTQyLjYtOS4yLTU3LjEtMjQtNy4xIDIxLjEtMTggNDAuNC0zMi4xIDU3LjEgMjQuNSAxOS40IDU1LjUgMzAuOSA4OS4yIDMwLjkgNzkuNSAwIDE0NC02NC41IDE0NC0xNDQgMC0yOC4yLTguMS01NC41LTIyLjEtNzYuN2w0OC43LTQ4LjcgMTYuOSAxNi45YzIuNCAyLjQgNS40IDMuNSA4LjQgMy41IDYuMiAwIDEyLjEtNC44IDEyLjEtMTJWMTJjMC02LjYtNS40LTEyLTEyLTEyek0xNDQgNjRDNjQuNSA2NCAwIDEyOC41IDAgMjA4YzAgNjguNSA0Ny45IDEyNS45IDExMiAxNDAuNFY0MDBINzZjLTYuNiAwLTEyIDUuNC0xMiAxMnY0MGMwIDYuNiA1LjQgMTIgMTIgMTJoMzZ2MzZjMCA2LjYgNS40IDEyIDEyIDEyaDQwYzYuNiAwIDEyLTUuNCAxMi0xMnYtMzZoMzZjNi42IDAgMTItNS40IDEyLTEydi00MGMwLTYuNi01LjQtMTItMTItMTJoLTM2di01MS42YzY0LjEtMTQuNiAxMTItNzEuOSAxMTItMTQwLjQgMC03OS41LTY0LjUtMTQ0LTE0NC0xNDR6bTAgMjI0Yy00NC4xIDAtODAtMzUuOS04MC04MHMzNS45LTgwIDgwLTgwIDgwIDM1LjkgODAgODAtMzUuOSA4MC04MCA4MHoiPjwvcGF0aD48L3N2Zz4="/>
+  <text x="64" y="286.5" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Homem</text>
+  <image x="38.125" y="309.1" width="18.75" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA2NDAgNTEyIiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTE5MiAyNTZjNjEuOSAwIDExMi01MC4xIDExMi0xMTJTMjUzLjkgMzIgMTkyIDMyIDgwIDgyLjEgODAgMTQ0czUwLjEgMTEyIDExMiAxMTJ6bTc2LjggMzJoLTguM2MtMjAuOCAxMC00My45IDE2LTY4LjUgMTZzLTQ3LjYtNi02OC41LTE2aC04LjNDNTEuNiAyODggMCAzMzkuNiAwIDQwMy4yVjQzMmMwIDI2LjUgMjEuNSA0OCA0OCA0OGgyODhjMjYuNSAwIDQ4LTIxLjUgNDgtNDh2LTI4LjhjMC02My42LTUxLjYtMTE1LjItMTE1LjItMTE1LjJ6TTQ4MCAyNTZjNTMgMCA5Ni00MyA5Ni05NnMtNDMtOTYtOTYtOTYtOTYgNDMtOTYgOTYgNDMgOTYgOTYgOTZ6bTQ4IDMyaC0zLjhjLTEzLjkgNC44LTI4LjYgOC00NC4yIDhzLTMwLjMtMy4yLTQ0LjItOEg0MzJjLTIwLjQgMC0zOS4yIDUuOS01NS43IDE1LjQgMjQuNCAyNi4zIDM5LjcgNjEuMiAzOS43IDk5Ljh2MzguNGMwIDIuMi0uNSA0LjMtLjYgNi40SDU5MmMyNi41IDAgNDgtMjEuNSA0OC00OCAwLTYxLjktNTAuMS0xMTItMTEyLTExMnoiPjwvcGF0aD48L3N2Zz4="/>
+  <text x="64" y="316.5" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Solteiro</text>
+  <text x="91.125" y="316.5" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">(a)</text>
+  <image x="40.9375" y="339.1" width="13.125" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA0NDggNTEyIiB3aWR0aD0iNDQ4IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zek0xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNSAwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNXptMjgyLjEgMjQzaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlWNDE2eiI+PC9wYXRoPjwvc3ZnPg=="/>
+  <text x="64" y="346.5" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">linkedin.com/in/kennedy-</text>
+  <text x="152.046875" y="346.5" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">leocadio-</text>
+  <text x="64" y="355.3" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">62a845170</text>
+  <image x="40.234375" y="371.70000000000005" width="14.53125" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA0OTYgNTEyIiB3aWR0aD0iNDk2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTMzNi41IDE2MEMzMjIgNzAuNyAyODcuOCA4IDI0OCA4cy03NCA2Mi43LTg4LjUgMTUyaDE3N3pNMTUyIDI1NmMwIDIyLjIgMS4yIDQzLjUgMy4zIDY0aDE4NS4zYzIuMS0yMC41IDMuMy00MS44IDMuMy02NHMtMS4yLTQzLjUtMy4zLTY0SDE1NS4zYy0yLjEgMjAuNS0zLjMgNDEuOC0zLjMgNjR6bTMyNC43LTk2Yy0yOC42LTY3LjktODYuNS0xMjAuNC0xNTgtMTQxLjYgMjQuNCAzMy44IDQxLjIgODQuNyA1MCAxNDEuNmgxMDh6TTE3Ny4yIDE4LjRDMTA1LjggMzkuNiA0Ny44IDkyLjEgMTkuMyAxNjBoMTA4YzguNy01Ni45IDI1LjUtMTA3LjggNDkuOS0xNDEuNnpNNDg3LjQgMTkySDM3Mi43YzIuMSAyMSAzLjMgNDIuNSAzLjMgNjRzLTEuMiA0My0zLjMgNjRoMTE0LjZjNS41LTIwLjUgOC42LTQxLjggOC42LTY0cy0zLjEtNDMuNS04LjUtNjR6TTEyMCAyNTZjMC0yMS41IDEuMi00MyAzLjMtNjRIOC42QzMuMiAyMTIuNSAwIDIzMy44IDAgMjU2czMuMiA0My41IDguNiA2NGgxMTQuNmMtMi0yMS0zLjItNDIuNS0zLjItNjR6bTM5LjUgOTZjMTQuNSA4OS4zIDQ4LjcgMTUyIDg4LjUgMTUyczc0LTYyLjcgODguNS0xNTJoLTE3N3ptMTU5LjMgMTQxLjZjNzEuNC0yMS4yIDEyOS40LTczLjcgMTU4LTE0MS42aC0xMDhjLTguOCA1Ni45LTI1LjYgMTA3LjgtNTAgMTQxLjZ6TTE5LjMgMzUyYzI4LjYgNjcuOSA4Ni41IDEyMC40IDE1OCAxNDEuNi0yNC40LTMzLjgtNDEuMi04NC43LTUwLTE0MS42aC0xMDh6Ij48L3BhdGg+PC9zdmc+"/>
+  <text x="64" y="379.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">kennedy-</text>
+  <text x="96.91015625" y="379.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dsmovie.netlify.app</text>
+  <image x="40.234375" y="401.70000000000005" width="14.53125" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA0OTYgNTEyIiB3aWR0aD0iNDk2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTMzNi41IDE2MEMzMjIgNzAuNyAyODcuOCA4IDI0OCA4cy03NCA2Mi43LTg4LjUgMTUyaDE3N3pNMTUyIDI1NmMwIDIyLjIgMS4yIDQzLjUgMy4zIDY0aDE4NS4zYzIuMS0yMC41IDMuMy00MS44IDMuMy02NHMtMS4yLTQzLjUtMy4zLTY0SDE1NS4zYy0yLjEgMjAuNS0zLjMgNDEuOC0zLjMgNjR6bTMyNC43LTk2Yy0yOC42LTY3LjktODYuNS0xMjAuNC0xNTgtMTQxLjYgMjQuNCAzMy44IDQxLjIgODQuNyA1MCAxNDEuNmgxMDh6TTE3Ny4yIDE4LjRDMTA1LjggMzkuNiA0Ny44IDkyLjEgMTkuMyAxNjBoMTA4YzguNy01Ni45IDI1LjUtMTA3LjggNDkuOS0xNDEuNnpNNDg3LjQgMTkySDM3Mi43YzIuMSAyMSAzLjMgNDIuNSAzLjMgNjRzLTEuMiA0My0zLjMgNjRoMTE0LjZjNS41LTIwLjUgOC42LTQxLjggOC42LTY0cy0zLjEtNDMuNS04LjUtNjR6TTEyMCAyNTZjMC0yMS41IDEuMi00MyAzLjMtNjRIOC42QzMuMiAyMTIuNSAwIDIzMy44IDAgMjU2czMuMiA0My41IDguNiA2NGgxMTQuNmMtMi0yMS0zLjItNDIuNS0zLjItNjR6bTM5LjUgOTZjMTQuNSA4OS4zIDQ4LjcgMTUyIDg4LjUgMTUyczc0LTYyLjcgODguNS0xNTJoLTE3N3ptMTU5LjMgMTQxLjZjNzEuNC0yMS4yIDEyOS40LTczLjcgMTU4LTE0MS42aC0xMDhjLTguOCA1Ni45LTI1LjYgMTA3LjgtNTAgMTQxLjZ6TTE5LjMgMzUyYzI4LjYgNjcuOSA4Ni41IDEyMC40IDE1OCAxNDEuNi0yNC40LTMzLjgtNDEuMi04NC43LTUwLTE0MS42aC0xMDh6Ij48L3BhdGg+PC9zdmc+"/>
+  <text x="64" y="409.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dsvendas-</text>
+  <text x="64" y="417.90000000000003" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">kennedyleocadiocosta.netlify.app</text>
+  <image x="40.234375" y="434.30000000000007" width="14.53125" height="15" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwNDNiMGMiIHZpZXdCb3g9IjAgMCA0OTYgNTEyIiB3aWR0aD0iNDk2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTMzNi41IDE2MEMzMjIgNzAuNyAyODcuOCA4IDI0OCA4cy03NCA2Mi43LTg4LjUgMTUyaDE3N3pNMTUyIDI1NmMwIDIyLjIgMS4yIDQzLjUgMy4zIDY0aDE4NS4zYzIuMS0yMC41IDMuMy00MS44IDMuMy02NHMtMS4yLTQzLjUtMy4zLTY0SDE1NS4zYy0yLjEgMjAuNS0zLjMgNDEuOC0zLjMgNjR6bTMyNC43LTk2Yy0yOC42LTY3LjktODYuNS0xMjAuNC0xNTgtMTQxLjYgMjQuNCAzMy44IDQxLjIgODQuNyA1MCAxNDEuNmgxMDh6TTE3Ny4yIDE4LjRDMTA1LjggMzkuNiA0Ny44IDkyLjEgMTkuMyAxNjBoMTA4YzguNy01Ni45IDI1LjUtMTA3LjggNDkuOS0xNDEuNnpNNDg3LjQgMTkySDM3Mi43YzIuMSAyMSAzLjMgNDIuNSAzLjMgNjRzLTEuMiA0My0zLjMgNjRoMTE0LjZjNS41LTIwLjUgOC42LTQxLjggOC42LTY0cy0zLjEtNDMuNS04LjUtNjR6TTEyMCAyNTZjMC0yMS41IDEuMi00MyAzLjMtNjRIOC42QzMuMiAyMTIuNSAwIDIzMy44IDAgMjU2czMuMiA0My41IDguNiA2NGgxMTQuNmMtMi0yMS0zLjItNDIuNS0zLjItNjR6bTM5LjUgOTZjMTQuNSA4OS4zIDQ4LjcgMTUyIDg4LjUgMTUyczc0LTYyLjcgODguNS0xNTJoLTE3N3ptMTU5LjMgMTQxLjZjNzEuNC0yMS4yIDEyOS40LTczLjcgMTU4LTE0MS42aC0xMDhjLTguOCA1Ni45LTI1LjYgMTA3LjgtNTAgMTQxLjZ6TTE5LjMgMzUyYzI4LjYgNjcuOSA4Ni41IDEyMC40IDE1OCAxNDEuNi0yNC40LTMzLjgtNDEuMi04NC43LTUwLTE0MS42aC0xMDh6Ij48L3BhdGg+PC9zdmc+"/>
+  <text x="64" y="441.70000000000005" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dsmeta-</text>
+  <text x="64" y="450.50000000000006" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">kennedyleocadiocosta.netlify.app</text>
+  <text x="40" y="483.0000000000001" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">Competências</text>
+  <path d="M 40,489.1000000000001 L 198.58399999999997,489.1000000000001 C 198.58399999999997,489.1000000000001,198.58399999999997,489.1000000000001,198.58399999999997,489.1000000000001 L 198.58399999999997,489.6000000000001 C 198.58399999999997,489.6000000000001,198.58399999999997,489.6000000000001,198.58399999999997,489.6000000000001 L 40,489.6000000000001 C 40,489.6000000000001,40,489.6000000000001,40,489.6000000000001 L 40,489.1000000000001 C 40,489.1000000000001,40,489.1000000000001,40,489.1000000000001 Z" fill="#d8d8d8"/>
+  <text x="40" y="507.00000000000006" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Java, </text>
+  <text x="61.34375" y="507.00000000000006" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">SpringBoot, </text>
+  <text x="105.37109375" y="507.00000000000006" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">React, </text>
+  <text x="130.71484375" y="507.00000000000006" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">TypeScript, </text>
+  <text x="173.39453125" y="507.00000000000006" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">SQL,</text>
+  <text x="40" y="515.8000000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Docker</text>
+  <text x="40" y="543.3000000000001" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">Idiomas</text>
+  <path d="M 40,549.4000000000001 L 198.58399999999997,549.4000000000001 C 198.58399999999997,549.4000000000001,198.58399999999997,549.4000000000001,198.58399999999997,549.4000000000001 L 198.58399999999997,549.9000000000001 C 198.58399999999997,549.9000000000001,198.58399999999997,549.9000000000001,198.58399999999997,549.9000000000001 L 40,549.9000000000001 C 40,549.9000000000001,40,549.9000000000001,40,549.9000000000001 L 40,549.4000000000001 C 40,549.4000000000001,40,549.4000000000001,40,549.4000000000001 Z" fill="#d8d8d8"/>
+  <text x="40" y="567.3000000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Inglês </text>
+  <text x="63.5703125" y="567.3000000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Leitura</text>
+  <circle cx="163.58399999999997" cy="564.5" r="3" fill="#043b0c"/>
+  <circle cx="171.58399999999997" cy="564.5" r="3" fill="#043b0c"/>
+  <circle cx="179.58399999999997" cy="564.5" r="3" fill="#043b0c"/>
+  <circle cx="187.58399999999997" cy="564.5" r="3" fill="#d8d8d8"/>
+  <circle cx="195.58399999999997" cy="564.5" r="3" fill="#d8d8d8"/>
+  <text x="40" y="586.1" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Inglês</text>
+  <circle cx="163.58399999999997" cy="583.3" r="3" fill="#043b0c"/>
+  <circle cx="171.58399999999997" cy="583.3" r="3" fill="#d8d8d8"/>
+  <circle cx="179.58399999999997" cy="583.3" r="3" fill="#d8d8d8"/>
+  <circle cx="187.58399999999997" cy="583.3" r="3" fill="#d8d8d8"/>
+  <circle cx="195.58399999999997" cy="583.3" r="3" fill="#d8d8d8"/>
+  <text x="40" y="613.6" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">Interesses</text>
+  <path d="M 40,619.7 L 198.58399999999997,619.7 C 198.58399999999997,619.7,198.58399999999997,619.7,198.58399999999997,619.7 L 198.58399999999997,620.2 C 198.58399999999997,620.2,198.58399999999997,620.2,198.58399999999997,620.2 L 40,620.2 C 40,620.2,40,620.2,40,620.2 L 40,619.7 C 40,619.7,40,619.7,40,619.7 Z" fill="#d8d8d8"/>
+  <path d="M 40,631.8000000000001 L 46,631.8000000000001 C 46,631.8000000000001,46,631.8000000000001,46,631.8000000000001 L 46,637.8000000000001 C 46,637.8000000000001,46,637.8000000000001,46,637.8000000000001 L 40,637.8000000000001 C 40,637.8000000000001,40,637.8000000000001,40,637.8000000000001 L 40,631.8000000000001 C 40,631.8000000000001,40,631.8000000000001,40,631.8000000000001 Z" fill="#043b0c"/>
+  <text x="50" y="637.6" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Desenvolvimento </text>
+  <text x="113.5859375" y="637.6" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="124.70703125" y="637.6" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Sistemas</text>
+  <path d="M 40,650.6 L 46,650.6 C 46,650.6,46,650.6,46,650.6 L 46,656.6 C 46,656.6,46,656.6,46,656.6 L 40,656.6 C 40,656.6,40,656.6,40,656.6 L 40,650.6 C 40,650.6,40,650.6,40,650.6 Z" fill="#043b0c"/>
+  <text x="50" y="656.4" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Arquitetura </text>
+  <text x="91.35546875" y="656.4" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="102.4765625" y="656.4" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Software</text>
+  <path d="M 40,669.4 L 46,669.4 C 46,669.4,46,669.4,46,669.4 L 46,675.4 C 46,675.4,46,675.4,46,675.4 L 40,675.4 C 40,675.4,40,675.4,40,675.4 L 40,669.4 C 40,669.4,40,669.4,40,669.4 Z" fill="#043b0c"/>
+  <text x="50" y="675.1999999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">DevOps</text>
+  <text x="218.58399999999997" y="51.875" fill="#043b0c" style="font: bold 25px LiberationSans; white-space: pre; letter-spacing: 0px;">Kennedy </text>
+  <text x="331.10841406249995" y="51.875" fill="#043b0c" style="font: bold 25px LiberationSans; white-space: pre; letter-spacing: 0px;">Costa</text>
+  <text x="218.58399999999997" y="68.14" fill="black" style="font: 8.8px LiberationSans; white-space: pre; letter-spacing: 0px;">Bacharel </text>
+  <text x="255.7605625" y="68.14" fill="black" style="font: 8.8px LiberationSans; white-space: pre; letter-spacing: 0px;">em </text>
+  <text x="270.43009374999997" y="68.14" fill="black" style="font: 8.8px LiberationSans; white-space: pre; letter-spacing: 0px;">Sistema </text>
+  <text x="304.663296875" y="68.14" fill="black" style="font: 8.8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="316.8965" y="68.14" fill="black" style="font: 8.8px LiberationSans; white-space: pre; letter-spacing: 0px;">Informação</text>
+  <text x="218.58399999999997" y="100.78" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">Formação</text>
+  <path d="M 218.58399999999997,106.88000000000001 L 565.28,106.88000000000001 C 565.28,106.88000000000001,565.28,106.88000000000001,565.28,106.88000000000001 L 565.28,107.38000000000001 C 565.28,107.38000000000001,565.28,107.38000000000001,565.28,107.38000000000001 L 218.58399999999997,107.38000000000001 C 218.58399999999997,107.38000000000001,218.58399999999997,107.38000000000001,218.58399999999997,107.38000000000001 L 218.58399999999997,106.88000000000001 C 218.58399999999997,106.88000000000001,218.58399999999997,106.88000000000001,218.58399999999997,106.88000000000001 Z" fill="#e2e2e2"/>
+  <text x="218.58399999999997" y="129.78" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">SISTEMA </text>
+  <text x="256.36524999999995" y="129.78" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">DE </text>
+  <text x="269.70118749999995" y="129.78" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">INFORMAÇÃO</text>
+  <text x="494.576875" y="129.78" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">jan </text>
+  <text x="508.358125" y="129.78" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2017 </text>
+  <text x="528.37765625" y="129.78" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="531.04171875" y="129.78" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="533.264375" y="129.78" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">jun </text>
+  <text x="547.483125" y="129.78" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2022</text>
+  <text x="218.58399999999997" y="138.58" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">ESTACIO </text>
+  <text x="255.92384374999997" y="138.58" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">DE </text>
+  <text x="269.25978124999995" y="138.58" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">SÁ, </text>
+  <text x="284.37696874999995" y="138.58" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Itabira</text>
+  <text x="218.58399999999997" y="157.38000000000002" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Técnico </text>
+  <text x="251.03712499999997" y="157.38000000000002" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">em </text>
+  <text x="264.82228124999995" y="157.38000000000002" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Telecomunicações</text>
+  <text x="522.576875" y="157.38000000000002" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2020 </text>
+  <text x="542.59640625" y="157.38000000000002" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="545.26046875" y="157.38000000000002" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="547.483125" y="157.38000000000002" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2021</text>
+  <text x="218.58399999999997" y="166.18000000000004" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Escola </text>
+  <text x="244.81837499999997" y="166.18000000000004" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">técnica </text>
+  <text x="272.38868749999995" y="166.18000000000004" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Mônaco, </text>
+  <text x="305.29493749999995" y="166.18000000000004" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Rio </text>
+  <text x="319.52149999999995" y="166.18000000000004" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="330.64259374999995" y="166.18000000000004" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Janeiro</text>
+  <text x="218.58399999999997" y="184.98000000000005" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Engenharia </text>
+  <text x="264.37306249999995" y="184.98000000000005" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="275.93165624999995" y="184.98000000000005" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Computação (NÃO CONCLUIDO)</text>
+  <text x="495.01046875" y="184.98000000000005" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">jan </text>
+  <text x="508.79171875" y="184.98000000000005" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2015 </text>
+  <text x="528.81125" y="184.98000000000005" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="531.4753125" y="184.98000000000005" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="533.69796875" y="184.98000000000005" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">fev </text>
+  <text x="547.483125" y="184.98000000000005" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2017</text>
+  <text x="218.58399999999997" y="193.78000000000006" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Universidade </text>
+  <text x="267.49806249999995" y="193.78000000000006" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Federal </text>
+  <text x="296.84571874999995" y="193.78000000000006" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="307.96681249999995" y="193.78000000000006" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Ouro </text>
+  <text x="327.97462499999995" y="193.78000000000006" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Preto, </text>
+  <text x="351.54103124999995" y="193.78000000000006" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">João </text>
+  <text x="371.11134374999995" y="193.78000000000006" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Monlevade</text>
+  <text x="218.58399999999997" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">(Dois </text>
+  <text x="239.47462499999997" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">anos </text>
+  <text x="259.04493749999995" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">estudando </text>
+  <text x="298.63478124999995" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Engenharia </text>
+  <text x="341.77931249999995" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">enquanto </text>
+  <text x="377.36915624999995" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">estava </text>
+  <text x="403.16212499999995" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">na </text>
+  <text x="414.28321874999995" y="202.58000000000007" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">cidade)</text>
+  <text x="218.58399999999997" y="230.08000000000007" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">Experiência</text>
+  <path d="M 218.58399999999997,236.18000000000006 L 565.28,236.18000000000006 C 565.28,236.18000000000006,565.28,236.18000000000006,565.28,236.18000000000006 L 565.28,236.68000000000006 C 565.28,236.68000000000006,565.28,236.68000000000006,565.28,236.68000000000006 L 218.58399999999997,236.68000000000006 C 218.58399999999997,236.68000000000006,218.58399999999997,236.68000000000006,218.58399999999997,236.68000000000006 L 218.58399999999997,236.18000000000006 C 218.58399999999997,236.18000000000006,218.58399999999997,236.18000000000006,218.58399999999997,236.18000000000006 Z" fill="#e2e2e2"/>
+  <text x="218.951" y="370.505" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Instrutor </text>
+  <text x="254.061" y="370.505" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="265.619" y="370.505" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">informática</text>
+  <text x="492.28" y="370.505" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">nov </text>
+  <text x="508.726" y="370.505" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2010 </text>
+  <text x="529.113" y="386.318" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="531.409" y="370.505" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="533.632" y="370.505" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">jun </text>
+  <text x="547.851" y="370.505" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2014</text>
+  <text x="218.951" y="379.305" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Interativa </text>
+  <text x="254.08" y="379.305" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">tecnologia </text>
+  <text x="292.776" y="379.305" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">da </text>
+  <text x="303.897" y="379.305" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">informação, </text>
+  <text x="347.916" y="379.305" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Itabira</text>
+  <text x="218.687" y="342.577" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Técnico </text>
+  <text x="252.14" y="342.577" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="263.699" y="342.577" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">informática</text>
+  <text x="492.997" y="342.577" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">fev </text>
+  <text x="506.782" y="342.577" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2014 </text>
+  <text x="525.69796875" y="286.68000000000006" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="528.36203125" y="286.68000000000006" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="531.688" y="342.577" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">mar </text>
+  <text x="548.586" y="342.577" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2015</text>
+  <text x="219.687" y="351.377" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Comunidade </text>
+  <text x="267.273" y="351.377" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Educativa </text>
+  <text x="304.629" y="351.377" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">CEDAC, </text>
+  <text x="337.078" y="351.377" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Itabira</text>
+  <text x="218.58399999999997" y="314.2800000000001" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Analista </text>
+  <text x="251.92774999999997" y="314.2800000000001" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="263.48634374999995" y="314.2800000000001" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Suporte </text>
+  <text x="295.93165624999995" y="314.2800000000001" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Técnico</text>
+  <text x="491.89328125" y="314.2800000000001" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">fev </text>
+  <text x="505.6784375" y="314.2800000000001" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2017 </text>
+  <text x="525.69796875" y="314.2800000000001" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="528.36203125" y="314.2800000000001" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="530.5846875" y="314.2800000000001" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">mar </text>
+  <text x="547.483125" y="314.2800000000001" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2018</text>
+  <text x="218.58399999999997" y="323.0800000000001" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">VALENET, </text>
+  <text x="259.48634374999995" y="323.0800000000001" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Itabira</text>
+  <text x="218.216" y="286.351" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Analista </text>
+  <text x="251.56" y="286.351" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="263.119" y="286.351" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Redes </text>
+  <text x="289.353" y="286.351" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Junior</text>
+  <text x="490.651" y="286.351" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">mar </text>
+  <text x="507.549" y="286.351" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2018 </text>
+  <text x="530.143" y="240.016" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="530.233" y="286.351" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="532.455" y="286.351" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">out </text>
+  <text x="547.116" y="286.351" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2021</text>
+  <text x="218.216" y="295.151" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">VALENET, </text>
+  <text x="259.119" y="295.151" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Itabira</text>
+  <text x="218.584" y="258.79" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Analista </text>
+  <text x="251.927" y="258.79" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="263.486" y="258.79" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Redes </text>
+  <text x="289.72" y="258.79" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Pleno</text>
+  <text x="507.041" y="258.79" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">out </text>
+  <text x="521.701" y="258.79" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2021 </text>
+  <text x="541.72140625" y="369.48000000000013" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="544.386" y="258.79" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="546.608" y="258.79" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">atual</text>
+  <text x="218.584" y="267.59" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">VALENET, </text>
+  <text x="259.486" y="267.59" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Itabira</text>
+  <text x="218.58399999999997" y="405.7800000000002" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">Atividades </text>
+  <text x="277.28321874999995" y="405.7800000000002" fill="#043b0c" style="font: 12px LiberationSans; white-space: pre; letter-spacing: 0px;">extracurriculares</text>
+  <path d="M 218.58399999999997,411.88000000000017 L 565.28,411.88000000000017 C 565.28,411.88000000000017,565.28,411.88000000000017,565.28,411.88000000000017 L 565.28,412.38000000000017 C 565.28,412.38000000000017,565.28,412.38000000000017,565.28,412.38000000000017 L 218.58399999999997,412.38000000000017 C 218.58399999999997,412.38000000000017,218.58399999999997,412.38000000000017,218.58399999999997,412.38000000000017 L 218.58399999999997,411.88000000000017 C 218.58399999999997,411.88000000000017,218.58399999999997,411.88000000000017,218.58399999999997,411.88000000000017 Z" fill="#e2e2e2"/>
+  <text x="218.58399999999997" y="434.78000000000014" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">BootCamp Desenvolvedor FullStack</text>
+  <text x="309.162" y="434.78" fill="black" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="495.0065625" y="434.78000000000014" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">set </text>
+  <text x="508.79171875" y="434.78000000000014" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2021 </text>
+  <text x="528.81125" y="434.78000000000014" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">-</text>
+  <text x="531.4753125" y="434.78000000000014" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;"> </text>
+  <text x="533.69796875" y="434.78000000000014" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">set </text>
+  <text x="547.483125" y="434.78000000000014" fill="#043b0c" style="font: bold 8px LiberationSans; white-space: pre; letter-spacing: 0px;">2022</text>
+  <text x="218.58399999999997" y="443.58000000000015" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">DevSuperior, </text>
+  <text x="267.49415624999995" y="443.58000000000015" fill="#043b0c" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Remoto</text>
+  <text x="218.58399999999997" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Monorepositório </text>
+  <text x="278.16993749999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Git, </text>
+  <text x="292.83790624999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">projeto </text>
+  <text x="319.52149999999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">organizado </text>
+  <text x="361.33009374999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">em </text>
+  <text x="374.66603124999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">camadas, </text>
+  <text x="411.57228124999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">entidades, </text>
+  <text x="450.71290624999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">perfis </text>
+  <text x="472.49806249999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="483.61915624999995" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">projeto, </text>
+  <text x="512.52540625" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">seeding </text>
+  <text x="542.7715" y="461.1800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">da</text>
+  <text x="218.58399999999997" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">base </text>
+  <text x="238.15431249999997" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="249.27540624999997" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados, </text>
+  <text x="275.51759374999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">web </text>
+  <text x="292.41603124999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">services </text>
+  <text x="323.97853124999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">REST, </text>
+  <text x="349.75978124999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">padrão </text>
+  <text x="376.89259374999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">DTO, </text>
+  <text x="398.22462499999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">CRUD </text>
+  <text x="423.55665624999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">completo, </text>
+  <text x="460.46290624999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">tratamento </text>
+  <text x="500.92774999999995" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="512.04884375" y="469.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">exceções,</text>
+  <text x="218.58399999999997" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados </text>
+  <text x="242.60353124999997" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="253.72462499999997" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">auditoria </text>
+  <text x="286.63478124999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="293.30665624999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">paginação </text>
+  <text x="332.45118749999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="343.57228124999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados. </text>
+  <text x="369.81446874999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Trabalho </text>
+  <text x="403.61134374999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="420.94728124999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Postman </text>
+  <text x="454.74024999999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">para </text>
+  <text x="472.97462499999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testar </text>
+  <text x="495.20509374999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">as </text>
+  <text x="505.87696874999995" y="478.7800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">requisições.</text>
+  <text x="218.58399999999997" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Fundamentos </text>
+  <text x="269.72462499999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="280.84571874999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes </text>
+  <text x="304.41212499999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">automatizados, </text>
+  <text x="360.88868749999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">TDD, </text>
+  <text x="381.77540624999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">JUnit </text>
+  <text x="402.22462499999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="419.56056249999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="426.23243749999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">sem </text>
+  <text x="443.56837499999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Spring </text>
+  <text x="468.91603124999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Boot, </text>
+  <text x="489.81837499999995" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes </text>
+  <text x="513.38478125" y="496.3800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">repositories,</text>
+  <text x="218.58399999999997" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">services </text>
+  <text x="250.14649999999997" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="256.81837499999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">resources, </text>
+  <text x="296.38868749999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes </text>
+  <text x="319.95509374999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="331.07618749999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">integração, </text>
+  <text x="372.88087499999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">mockar </text>
+  <text x="401.33009374999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dependências </text>
+  <text x="453.37306249999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="470.70899999999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Mockito </text>
+  <text x="500.49415624999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="507.16603124999995" y="505.18000000000023" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">MockBean,</text>
+  <text x="218.58399999999997" y="513.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">realizar </text>
+  <text x="247.03712499999997" y="513.9800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">assertions.</text>
+  <text x="218.58399999999997" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Validação </text>
+  <text x="255.94337499999997" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="267.06446874999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados </text>
+  <text x="291.08399999999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="308.41993749999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Bean </text>
+  <text x="329.32618749999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Validation, </text>
+  <text x="368.90821874999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">autenticação </text>
+  <text x="416.49806249999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="423.16993749999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">autorização </text>
+  <text x="466.75196874999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="484.08790624999995" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">OAuth2 </text>
+  <text x="513.43946875" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="520.11134375" y="531.5800000000002" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">JWT.</text>
+  <text x="218.58399999999997" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Implementação </text>
+  <text x="275.50196874999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="286.62306249999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">um </text>
+  <text x="299.95899999999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">modelo </text>
+  <text x="328.41993749999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">conceitual </text>
+  <text x="366.66603124999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">complexo </text>
+  <text x="403.12696874999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="420.46290624999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">ORM </text>
+  <text x="441.34962499999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="448.02149999999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">seed </text>
+  <text x="467.59181249999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="478.71290624999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">banco </text>
+  <text x="502.73243749999995" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="513.85353125" y="549.1800000000001" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados.</text>
+  <text x="218.58399999999997" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Criação </text>
+  <text x="248.37306249999997" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="259.49415624999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">autorizações </text>
+  <text x="307.07618749999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">customizadas: </text>
+  <text x="360.43165624999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">em </text>
+  <text x="373.76759374999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">nível </text>
+  <text x="392.88868749999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="404.00978124999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">serviço, </text>
+  <text x="433.79493749999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">conteúdo </text>
+  <text x="468.93556249999995" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">customizado </text>
+  <text x="516.068375" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">para </text>
+  <text x="534.30275" y="557.98" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">o</text>
+  <text x="218.58399999999997" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">usuário </text>
+  <text x="247.04493749999997" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">logado, </text>
+  <text x="275.51368749999995" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">refresh </text>
+  <text x="302.63478124999995" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">token, </text>
+  <text x="326.65040624999995" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">pré-</text>
+  <text x="340.87696874999995" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">autorização </text>
+  <text x="384.45899999999995" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="395.58009374999995" y="566.78" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">métodos.</text>
+  <text x="218.58399999999997" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Consultas </text>
+  <text x="256.38087499999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">ao </text>
+  <text x="267.50196874999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">banco </text>
+  <text x="291.52149999999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="302.64259374999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados </text>
+  <text x="326.66212499999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="343.99806249999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">JPA </text>
+  <text x="360.89259374999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="367.56446874999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">JPQL, </text>
+  <text x="392.01759374999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">problema </text>
+  <text x="427.59181249999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">das </text>
+  <text x="442.71290624999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">N+1 </text>
+  <text x="459.83399999999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">consultas, </text>
+  <text x="498.07618749999995" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">consultas </text>
+  <text x="534.09571875" y="584.3799999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">nativas</text>
+  <text x="218.58399999999997" y="593.1799999999998" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="235.91993749999997" y="593.1799999999998" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">SQL.</text>
+  <text x="218.58399999999997" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Fundamentos </text>
+  <text x="269.72462499999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="280.84571874999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Docker, </text>
+  <text x="310.63087499999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">imagens </text>
+  <text x="343.09181249999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="349.76368749999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">containers, </text>
+  <text x="391.11915624999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Docker </text>
+  <text x="418.68165624999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Hub, </text>
+  <text x="437.80274999999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">realizar </text>
+  <text x="466.25587499999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">build </text>
+  <text x="485.38087499999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="492.05274999999995" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">implantação </text>
+  <text x="537.412125" y="610.7799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">manual</text>
+  <text x="218.58399999999997" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="229.70509374999997" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">um </text>
+  <text x="243.04103124999997" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">projeto </text>
+  <text x="269.72462499999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Spring </text>
+  <text x="295.07228124999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Boot </text>
+  <text x="313.75196874999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">na </text>
+  <text x="324.87306249999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">AWS, </text>
+  <text x="347.54103124999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">CI/CD </text>
+  <text x="371.54103124999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="388.87696874999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Heroku, </text>
+  <text x="419.11134374999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">AWS </text>
+  <text x="439.55665624999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="446.22853124999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Github </text>
+  <text x="472.02149999999995" y="619.5799999999997" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Actions.</text>
+  <text x="218.58399999999997" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Criação </text>
+  <text x="248.37306249999997" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="259.49415624999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">projeto </text>
+  <text x="286.17774999999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">ReactJS, </text>
+  <text x="320.85743749999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">componentização, </text>
+  <text x="388.00978124999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">TypeScript,  </text>
+  <text x="432.91212499999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">organização </text>
+  <text x="478.72071874999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="489.84181249999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">um </text>
+  <text x="503.17774999999995" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">projeto </text>
+  <text x="529.86134375" y="637.1799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">ReactJS,</text>
+  <text x="218.58399999999997" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">rotas </text>
+  <text x="238.59181249999997" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="245.26368749999997" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">navegação, </text>
+  <text x="288.85353124999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">extrair </text>
+  <text x="313.30274999999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">características </text>
+  <text x="367.09571874999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="378.21681249999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">um </text>
+  <text x="391.55274999999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">projeto </text>
+  <text x="418.23634374999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Figma </text>
+  <text x="442.68556249999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">para </text>
+  <text x="460.91993749999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">um </text>
+  <text x="474.25587499999995" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">componente </text>
+  <text x="520.50978125" y="645.9799999999996" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">ReactJS,</text>
+  <text x="218.58399999999997" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">configuração </text>
+  <text x="266.61524999999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">do </text>
+  <text x="277.73634374999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Bootstrap </text>
+  <text x="314.20118749999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">para </text>
+  <text x="332.43556249999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">acelerar </text>
+  <text x="363.56056249999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">o </text>
+  <text x="370.23243749999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">desenvolvimento </text>
+  <text x="432.49024999999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="443.61134374999995" y="654.7799999999995" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">componentes.</text>
+  <text x="218.58399999999997" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Criação </text>
+  <text x="248.37306249999997" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="259.49415624999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">um </text>
+  <text x="272.83009374999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">módulo </text>
+  <text x="301.29103124999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="312.41212499999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">autenticação, </text>
+  <text x="362.22462499999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">estrutura </text>
+  <text x="396.01759374999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="407.13868749999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">rotas </text>
+  <text x="427.14649999999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">do </text>
+  <text x="438.26759374999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">fluxo </text>
+  <text x="457.38868749999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="468.50978124999995" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">autenticação, </text>
+  <text x="518.32228125" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">formulário </text>
+  <text x="556.11134375" y="672.3799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e</text>
+  <text x="218.58399999999997" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">processo </text>
+  <text x="253.26759374999997" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="264.38868749999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">login, </text>
+  <text x="285.73634374999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">redirecionamentos, </text>
+  <text x="355.99415624999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">permissionamento </text>
+  <text x="423.58009374999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">em </text>
+  <text x="436.91603124999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">nível </text>
+  <text x="456.03712499999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="467.15821874999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">rotas, </text>
+  <text x="489.38868749999995" y="681.1799999999994" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">permissionamento</text>
+  <text x="218.58399999999997" y="689.9799999999993" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">em </text>
+  <text x="231.91993749999997" y="689.9799999999993" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">nível </text>
+  <text x="251.04103124999997" y="689.9799999999993" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="262.16212499999995" y="689.9799999999993" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">componentes.</text>
+  <text x="218.58399999999997" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Construção </text>
+  <text x="261.71681249999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="272.83790624999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">interface </text>
+  <text x="305.74415624999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">completa </text>
+  <text x="340.42774999999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="351.54884374999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">listagem, </text>
+  <text x="385.78321874999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">inserção, </text>
+  <text x="420.46681249999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">edição </text>
+  <text x="446.26368749999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="452.93556249999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">deleção </text>
+  <text x="483.18165624999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="494.30274999999995" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">registros. </text>
+  <text x="529.42384375" y="707.5799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Criação</text>
+  <text x="218.58399999999997" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="229.70509374999997" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">formulários, </text>
+  <text x="273.71681249999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">validações </text>
+  <text x="313.74024999999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="324.86134374999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados, </text>
+  <text x="351.10353124999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">lidar </text>
+  <text x="368.44337499999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="385.77931249999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">vários </text>
+  <text x="409.34181249999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">tipos </text>
+  <text x="428.46290624999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="439.58399999999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">componentes </text>
+  <text x="489.83790624999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="500.95899999999995" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">listagem </text>
+  <text x="532.97071875" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="539.64259375" y="716.3799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de</text>
+  <text x="218.58399999999997" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">formulário. </text>
+  <text x="258.59571874999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Trabalhar </text>
+  <text x="295.05665624999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="312.39259374999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">filtros </text>
+  <text x="333.72853124999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="344.84962499999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">listagem </text>
+  <text x="376.86134374999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="383.53321874999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">paginação </text>
+  <text x="422.67774999999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="433.79884374999995" y="725.1799999999992" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dados.</text>
+  <text x="218.58399999999997" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Fundamentos </text>
+  <text x="269.72462499999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="276.39649999999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes, </text>
+  <text x="302.18556249999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes </text>
+  <text x="325.75196874999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">básicos </text>
+  <text x="355.09962499999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="372.43556249999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">JEST, </text>
+  <text x="396.43946874999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes </text>
+  <text x="420.00587499999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="431.12696874999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">componentes </text>
+  <text x="481.38087499999995" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dinâmicos, </text>
+  <text x="521.8418125" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes </text>
+  <text x="545.40821875" y="742.7799999999991" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de</text>
+  <text x="218.58399999999997" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">unidade, </text>
+  <text x="251.50196874999997" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">testes </text>
+  <text x="275.06837499999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="286.18946874999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">integração, </text>
+  <text x="327.99415624999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">cenários. </text>
+  <text x="362.67774999999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Implantação </text>
+  <text x="408.48243749999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">da </text>
+  <text x="419.60353124999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">aplicação </text>
+  <text x="455.62696874999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">no </text>
+  <text x="466.74806249999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Netlify </text>
+  <text x="491.19728124999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="508.53321874999995" y="751.579999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">entrega</text>
+  <text x="218.58399999999997" y="760.379999999999" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">contínua.</text>
+  <text x="218.58399999999997" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">Estruturação </text>
+  <text x="266.16212499999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">de </text>
+  <text x="277.28321874999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">um </text>
+  <text x="290.61915624999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">dashboard </text>
+  <text x="330.65040624999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">complexo </text>
+  <text x="367.11134374999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">com </text>
+  <text x="384.44728124999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">gráficos, </text>
+  <text x="416.90431249999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">sumários, </text>
+  <text x="453.80274999999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">listagem </text>
+  <text x="485.81446874999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">e </text>
+  <text x="492.48634374999995" y="777.9799999999989" fill="black" style="font: 8px LiberationSans; white-space: pre; letter-spacing: 0px;">indicadores.</text>
+</svg>

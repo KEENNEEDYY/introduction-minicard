@@ -1,86 +1,129 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="./src/css/reset.css">
-    <link rel="stylesheet" href="./src/css/estilos.css">
-    <link rel="stylesheet" href="./src/css/rolagem.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
-    <title>Introduction Card</title>
-  </head>
-  <body>
-    <main class="cartao">
-      <div class="minhas-informacoes">
-        <img src="./src/imagens/foto-perfil2.png" alt="foto de perfil" />
-        <h1 class="nome">Kennedy Leocadio Costa</h1>
-        <h2 class="cargo">Desenvolvedor FullStack Júnior</h2>
-      </div>
+  <link rel="stylesheet" href="./src/css/reset.css">
+  <link rel="stylesheet" href="./src/css/estilos.css">
+  <link rel="stylesheet" href="./src/css/rolagem.css">
 
-      <div class="conteudo">
-        <ul class="abas">
-          <li class="aba selecionado" id="sobre-mim">
-            <img src="./src/imagens/sobre.gif" alt="ícone de sobre mim" />
-          </li>
-          <li class="aba" id="minhas-redes">
-            <img src="./src/imagens/coracao.gif" alt="ícone de redes sociais" />
-          </li>
-        </ul>
+  <title>Introduction Card</title>
+</head>
 
-        <div class="informacoes-abas">
-          <div class="informacao selecionado" id="informacao-sobre-mim">
-            <h3 class="sub-titulo">Sobre</h3>
+<body>
+  <main class="cartao">
+    <div class="minhas-informacoes">
+      <img src="./src/imagens/foto-perfil2.png" alt="foto de perfil" />
+      <h1 class="nome">Kennedy Leocadio Costa</h1>
+      <h2 class="cargo">Desenvolvedor FullStack Júnior</h2>
+    </div>
 
-            <div class="descricao">
-              <p>Oi! Meu nome é Kennedy, seja bem-vindo(a)!</p>
+    <div class="conteudo">
+      <ul class="abas">
+        <li class="aba selecionado" id="sobre-mim">
+          <img src="./src/imagens/sobre.gif" alt="ícone de sobre mim" />
+        </li>
+        <li class="aba" id="minhas-redes">
+          <img src="./src/imagens/coracao.gif" alt="ícone de redes sociais" />
+        </li>
+        <li class="aba" id="meus-projetos">
+          <img src="./src/imagens/react.gif" alt="ícone de redes sociais" />
+        </li>
+      </ul>
+
+      <div class="informacoes-abas">
+
+        <div class="informacao selecionado" id="informacao-sobre-mim">
+          <h3 class="sub-titulo">Sobre</h3>
+
+          <div class="descricao">
+            <p>Oi! Meu nome é Kennedy, seja bem-vindo(a)!</p>
+            <br>
+            <p>
+              Sou uma pessoa apaixonada pela programação desde 2008
+              quando fiz meu primeiro curso de informática.
               <br>
-              <p>
-                Sou uma pessoa apaixonada pela programação desde 2008 
-                quando fiz meu primeiro curso de informática. 
-                <br>
-                Sempre tive o objetivo de trabalhar com programação e atualmente 
-                comecei a subir meus projetos no GitHub, envolvendo tecnologias como 
-                <span>TypeScript, CSS, React, Java e framework SpringBoot</span>.
-                <br>
-                Minha carreira profissional foi toda dentro da área da tecnologia, 
-                desde instrutor de informática até trabalhar com servidores, 
-                redes de telecomunicações, monitoramento e correções em tempo de execução a 
-                serviços hospedados em servidores como Ubuntu, RedHat e Windows. 
-                <br>
-                Gosto muito de estudar, e meus principais hobbies são voar de parapente, 
-                jogar paintball, patinar, ver animes e séries.
-                <br>
-                Espero que esse pequeno texto mesmo que breve possa demonstrar um pouco do que eu sou e 
-                valores que possam agregar em sua equipe, na próxima aba segue meus contatos e fiquem a vontade em me chamar!
-              </p>
-            </div>
+              Sempre tive o objetivo de trabalhar com programação e atualmente
+              comecei a subir meus projetos no GitHub, envolvendo tecnologias como
+              <span>TypeScript, CSS, React, Java e framework SpringBoot</span>.
+              <br>
+              Minha carreira profissional foi toda dentro da área da tecnologia,
+              desde instrutor de informática até trabalhar com servidores,
+              redes de telecomunicações, monitoramento e correções em tempo de execução a
+              serviços hospedados em servidores como Ubuntu, RedHat e Windows.
+              <br>
+              Gosto muito de estudar, e meus principais hobbies são voar de parapente,
+              jogar paintball, patinar, ver animes e séries.
+              <br>
+              Espero que esse pequeno  texto, mesmo que breve, possa demonstrar um pouco do que eu sou e
+              valores que possam agregar em sua equipe, na próxima aba segue meus contatos e fiquem a vontade em me
+              chamar!
+            </p>
           </div>
-
-          <div class="informacao" id="informacao-minhas-redes">
-            <h3 class="sub-titulo">Minhas redes</h3>
-
-            <ul class="redes-sociais">
-                <li>
-                    <a href="./src/imagens/curriculo.svg" target="_blank" class="curriculo">Currículo</a>
-                </li>
-                <li>
-                    <a href="https://www.linkedin.com/in/kennedy-leocadio-62a845170/" target="_blank" class="linkedin">LinkedIn</a>
-                </li>
-                <li>
-                    <a href="https://github.com/KEENNEEDYY" target="_blank" class="github">GitHub</a>
-                </li>
-            </ul>
-          </div>
-
         </div>
+
+        <div class="informacao" id="informacao-minhas-redes">
+          <h3 class="sub-titulo">Minhas redes</h3>
+
+          <ul class="redes-sociais">
+            <li>
+              <a href="./src/imagens/curriculo.svg" target="_blank" class="curriculo">Currículo</a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/kennedy-leocadio-62a845170/" target="_blank"
+                class="linkedin">LinkedIn</a>
+            </li>
+            <li>
+              <a href="https://github.com/KEENNEEDYY" target="_blank" class="github">GitHub</a>
+            </li>
+          </ul>
+          <br>
+        </div>
+
+        <div class="informacao" id="informacao-meus-projetos">
+          <h3 class="sub-titulo">Meus projetos</h3>
+
+          <div class="descricao">
+            <p>Abaixo estão listados alguns de meus projetos onde o backend foi hospedado no Heruko
+              e o frontend foi hospedado no Netlify.<br>
+              Foi usado plano free então o backend pode demorar cerca de 10 minutos na arrancada e
+              exibir corretamente os dados.
+            </p>
+            <br>
+            
+            <span><a href="https://kennedy-dsmovie.netlify.app/" target="_blank" class="projeto">DashBoard de
+                Filmes: </a></span>
+            <p>DashBoad de filmes para avaliações, informações de avaliações são salvas
+              no banco de dados e calculado a média de notas para cada filme.
+            </p>
+            <br>
+
+            <span><a href="https://dsvendas-kennedyleocadiocosta.netlify.app/" target="_blank" class="projeto">DashBoard de Vendas: </a></span>
+            <p>Dashboard de Vendas onde são sumarizados vendas de cada vendedor, neste projeto o interessante é a busca paginada feita 
+              usando recursos disponibilizados pelo framework SpringBoot e consuntas JPQL além da demonstração bem visual de taxa de sucesso e vendas 
+              em forma de gráfico.</p>
+              <br>
+            
+            <span><a href="https://dsmeta-kennedyleocadiocosta.netlify.app/" target="_blank" class="projeto">DashBoard de Metas/vendas: </a></span>
+            <p>Neste projeto foi feito basicamente como o segundo mudando o design da página e um diferencial que é a integração com 
+                uma API de envio de SMS notificando o usuário.
+            </p>
+
+          </div>
+          </ul>
+        </div>
+
       </div>
-    </main>
-    <script src="./src/js/index.js"></script>
-  </body>
+    </div>
+  </main>
+  <script src="./src/js/index.js"></script>
+</body>
+
 </html>

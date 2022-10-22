@@ -1,6 +1,6 @@
 body{
     background-image: url(../imagens/fundo-site2.jpg);
-    max-width: 1200px;
+    max-width: 2200px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -121,6 +121,10 @@ body{
     color: #02d08f;
 }
 
+.informacoes-abas .descricao span a{
+    color: #02d08f;
+}
+
 .redes-sociais{
     display: flex;
     flex-direction: column;
@@ -154,4 +158,8 @@ body{
 
 .redes-sociais .github{
     background-color: #545454;
+}
+
+@media(min-width:1200px ) {
+    
 }
